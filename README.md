@@ -1,10 +1,17 @@
 # 🚀 GrowthFlow AI — Intelligent Lead Decision System
 
+
+
 ## 📌 Overview
 
 GrowthFlow AI is an end-to-end decision intelligence system designed to transform raw lead data into actionable commercial strategies.
 
 Instead of treating all leads equally, the system applies a structured decision framework to prioritize opportunities, optimize sales efforts, and automate communication — simulating a real-world marketing and sales operation.
+
+## 🌐 Live Demo
+
+Access the application here:  
+👉 https://growthflow-ai-gdffnbxfjfanj6rcksyc8e.streamlit.app/
 
 ---
 
