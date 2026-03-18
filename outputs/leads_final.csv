@@ -1,0 +1,9 @@
+nome,email,origem,interesse,orcamento,score,segmento,acao,mensagem
+Carlos,carlos@email.com,WhatsApp,Alto,120000,120,Hot,Contato imediato (time de vendas),"Carlos, vi que você demonstrou bastante interesse. Vamos conversar hoje?"
+Pedro,pedro@email.com,Google,Alto,80000,120,Hot,Contato imediato (time de vendas),"Pedro, vi que você demonstrou bastante interesse. Vamos conversar hoje?"
+Rafael,rafael@email.com,Google,Alto,30000,100,Hot,Contato imediato (time de vendas),"Rafael, vi que você demonstrou bastante interesse. Vamos conversar hoje?"
+Carla,carla@email.com,WhatsApp,Médio,70000,100,Hot,Contato imediato (time de vendas),"Carla, vi que você demonstrou bastante interesse. Vamos conversar hoje?"
+João,joao@email.com,Instagram,Alto,50000,80,Warm,Follow-up em até 24h,"João, tenho uma oportunidade que pode fazer sentido para você. Quer saber mais?"
+Maria,maria@email.com,Google,Baixo,5000,30,Cold,Fluxo de nutrição (marketing),"Maria, separei um conteúdo que pode te ajudar. Posso te enviar?"
+Ana,ana@email.com,Facebook,Médio,20000,30,Cold,Fluxo de nutrição (marketing),"Ana, separei um conteúdo que pode te ajudar. Posso te enviar?"
+Julia,julia@email.com,Instagram,Médio,15000,30,Cold,Fluxo de nutrição (marketing),"Julia, separei um conteúdo que pode te ajudar. Posso te enviar?"
